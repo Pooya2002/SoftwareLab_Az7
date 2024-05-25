@@ -55,6 +55,8 @@
 
 ![21](https://github.com/Pooya2002/SoftwareLab_Az7/assets/63359673/3dbed740-2391-4166-920b-16cc21f63945)
 
+## پرسش‌های مربوط به پروژه 
+
 نوت اول که با id=3 ساخته شده را پاک کرده و دوباره لیست را نمایش میدهیم
 
 ![22](https://github.com/Pooya2002/SoftwareLab_Az7/assets/63359673/6456b258-cbc2-40f0-bd7f-eb6dbed7d2b9)
@@ -75,4 +77,6 @@
 
 
 ![26](https://github.com/Pooya2002/SoftwareLab_Az7/assets/63359673/81496373-df7c-40d5-9d37-d0e29dd9a793)
+
+## پرسش‌های کلی
 
