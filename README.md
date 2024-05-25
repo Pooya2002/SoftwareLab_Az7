@@ -71,6 +71,8 @@
 
 ![25](https://github.com/Pooya2002/SoftwareLab_Az7/assets/63359673/6be9c5cd-a0f9-45fd-aaac-ff15f373184f)
 
+کانتینر مربوطه را از تصویر قبل استخراج کرده و با آن دو دستور ls و python --version را می‌زنیم.
 
 
+![26](https://github.com/Pooya2002/SoftwareLab_Az7/assets/63359673/81496373-df7c-40d5-9d37-d0e29dd9a793)
 
